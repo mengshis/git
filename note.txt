@@ -1,1 +1,10 @@
 this is amazing
+裙裙
+美丽的
+可爱的
+甜美的
+我写的啥玩意
+git status 
+git log
+git add .
+git commit
